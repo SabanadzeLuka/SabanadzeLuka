@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Hi !👋 I'm Luka<br>Web Developer<br>With a passion for solving problems 🧩</h3>
+<h3 align="left">Hi !👋 I'm Luka<br><p>Web Developer<br>With a passion for solving problems </p>🧩</h3>
 
 ###
 
