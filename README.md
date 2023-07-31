@@ -13,7 +13,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="35" src="https://i.imgur.com/6LnepBV.png"  />
+  <img height="30" src="https://i.imgur.com/6LnepBV.png"  />
 </div>
 
 ###
@@ -29,7 +29,7 @@
 ###
 
 <div align="center">
-  <img height="35" src="https://i.imgur.com/6LnepBV.png"  />
+  <img height="30" src="https://i.imgur.com/6LnepBV.png"  />
 </div>
 
 ###
@@ -75,7 +75,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="35" src="https://i.imgur.com/6LnepBV.png"  />
+  <img height="30" src="https://i.imgur.com/6LnepBV.png"  />
 </div>
 
 ###
@@ -100,7 +100,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="35" src="https://i.imgur.com/6LnepBV.png"  />
+  <img height="30" src="https://i.imgur.com/6LnepBV.png"  />
 </div>
 
 ###
