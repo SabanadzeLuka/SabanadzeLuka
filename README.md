@@ -2,11 +2,15 @@
 
 ###
 
-<h3 align="left">Hi !👋 I'm Luka<br><p>Web Developer<br>With a passion for solving problems </p>🧩</h3>
+<h3 align="left">Hi !👋 I'm Luka</h3>
 
 ###
 
 <p align="left"></p>
+
+###
+
+<p align="left">Web Developer<br>With a passion for solving problems 🧩</p>
 
 ###
 
@@ -17,6 +21,7 @@
 </div>
 
 ###
+
 
 <p align="left">⚡  Welcome to my GitHub Profile! Here, you'll discover a dedicated Web Developer who's super passionate about creating cool projects and making a mark in the tech world. I absolutely love coding and always keep an eye out for exciting innovations. My journey as a web developer has been a continuous adventure of learning and improving. I get thrilled exploring new technologies and approaches to stay at the forefront of this fast-changing industry. From building interactive UI components to optimizing website performance, I aim to excel in every bit of code I write.</p>
 
