@@ -62,6 +62,8 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" height="40" alt="react logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white&style=for-the-badge" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" height="40" alt="react logo"  />
